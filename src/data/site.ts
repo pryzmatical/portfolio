@@ -1,5 +1,6 @@
 export const site = {
   name: "Shawn McGarvie",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
   tagline: "IT & AI Systems Builder",
   location: "Goodyear, AZ",
   email: "pryzmatical@gmail.com",

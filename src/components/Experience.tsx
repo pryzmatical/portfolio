@@ -2,7 +2,7 @@ import { experience } from "@/data/resume";
 
 export function Experience() {
   return (
-    <section id="experience" className="mx-auto max-w-5xl px-6 py-16">
+    <section id="experience" className="mx-auto max-w-5xl scroll-mt-20 px-6 py-16">
       <p className="text-sm font-medium uppercase tracking-wide text-accent">Background</p>
       <h2 className="mt-2 text-2xl font-semibold tracking-tight">Experience</h2>
       <div className="mt-8 flex flex-col gap-10">

@@ -4,7 +4,7 @@ import { site } from "@/data/site";
 
 export function Contact() {
   return (
-    <section id="contact" className="border-t border-border bg-surface">
+    <section id="contact" className="scroll-mt-20 border-t border-border bg-surface">
       <div className="mx-auto max-w-5xl px-6 py-16 text-center">
         <p className="text-sm font-medium uppercase tracking-wide text-accent">Get in touch</p>
         <h2 className="mt-2 text-2xl font-semibold tracking-tight">Let&apos;s talk</h2>

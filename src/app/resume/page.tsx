@@ -4,7 +4,8 @@ import { skillGroups, experience, education, certifications } from "@/data/resum
 import { PrintButton } from "@/components/PrintButton";
 
 export const metadata: Metadata = {
-  title: "Resume — Shawn McGarvie",
+  title: "Resume",
+  description: "Web resume for Shawn McGarvie: skills, experience, and education.",
 };
 
 export default function ResumePage() {

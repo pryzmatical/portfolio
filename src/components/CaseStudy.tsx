@@ -8,7 +8,7 @@ const points = [
 
 export function CaseStudy() {
   return (
-    <section id="case-study" className="border-y border-border bg-surface">
+    <section id="case-study" className="scroll-mt-20 border-y border-border bg-surface">
       <div className="mx-auto max-w-5xl px-6 py-16">
         <p className="text-sm font-medium uppercase tracking-wide text-accent">Featured work</p>
         <h2 className="mt-2 text-2xl font-semibold tracking-tight">
